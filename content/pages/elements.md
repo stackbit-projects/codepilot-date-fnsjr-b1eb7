@@ -34,10 +34,17 @@ layout: page
 
 ###### This is an H6
 
+
+
+
 Next, we have to accept that the markets are very
 competitive. Some competitors have done better than us with the right
 approach in different market areas, as well as identifying target
-customers. In this case, we have two paths ahead of our brand.
+customers. In this case, we have two paths ahead of our brand:
+
+
+ 
+ 
 
 In order to be present in the field of marketing, we should
 not ask what we do best?! We have to ask what do we do better than our competitors?! The
@@ -54,9 +61,10 @@ services. You should not worry about the rest!
 
 *To formulate the right marketing strategy, we must
 always keep in mind three important principles:*
- 
 
-### Market research or listen to customers!
+
+
+## Market research or listen to customers!
 
 Marketing means talking and communicating with
 customers. To create a good relationship, we need to properly identify
@@ -103,8 +111,9 @@ in any business is a question that you can find the right answers with a little
 thought. These answers can be a turning point for starting an attractive
 and result-oriented marketing.
 
-The important question is what to ask customers? Of
-course, the first thing is feedback. Feedback from the product or
+### The important question is what to ask customers? 
+
+Of course, the first thing is feedback. Feedback from the product or
 service. We can invite them to provide feedback on product development and
 improvement. We can ask about the most important factors in their
 selection.
@@ -119,7 +128,7 @@ In short, we can improve our brand in a completely creative
 and low cost way by listening to selected market segments and considering our
 most valuable customers as partners.
 
-## Customer benefits
+### Customer benefits
 
 It does not matter from the customer's point of view what
 features your product or brand has! It is value creation that
@@ -135,6 +144,10 @@ If you are looking to grow your brand or business, we should
 and should emphasize customer benefits based on a deep understanding of what our
 customers are actually buying from us. We can look at our brand in two
 ways:
+
+
+ 
+ 
 
 More marketing seeks to explore different topics from a
 customer perspective. Marketing is not a separate part of a business, but
@@ -154,12 +167,14 @@ the benefits of our product. For example, if you are a web designer and
 your customer asks why I should use your service, you can answer in two
 different ways:
 
+![](/images/Buy%20Social%20Traffic.png)
+
 Important points were mentioned in both of the above answers. But in the
 first answer only the features of the product were defined and in the second
 answer the advantages of the product were explained to the customer. The
 benefits that the customer is looking for. If we give the first answer to the customer, he
 will probably say in his mind: “Well, what! Some company has given a lower price than you !! ” But if
-you answer the second, you are halfway there.
+you answer the second, you are halfway [here](https://opencollective.com/real-human-website-traffic).
 
 To succeed in this way, you must look at your business from
 the outside. Yes, you should wear the customer's shoes and evaluate from
@@ -245,7 +260,7 @@ marketing strategy.
 
 #### Checklist To Ensure An Effective Marketing Strategy
 
-## An example of 3M marketing
+An example of 3M marketing
 
 Mr. Village Manager has a silver shop. He asked us for
 marketing advice. He did not want to jump into the water. He had
@@ -283,7 +298,8 @@ marketing, he had two businesses. This is the difference between a brand
 owner and a customer. We worked with the village manager on this through
 the 3M marketing method:
 
-## For the first category
+For the first category
+ 
 
 To decide on this, we need to understand the
 customer. We have to look at the world from their point of view. What
@@ -295,10 +311,11 @@ or ad in one of the glossy lifestyle magazines that these women
 read. These magazines are tailored to their specific image and
 preferences. And so, after considering this product, identifying its
 markets and creating a message, we came to the conclusion that the best way to
-convey a message is to advertise or feature an editorial in one of these
+convey a message is to [advertise or feature an editorial](https://opencollective.com/real-human-website-traffic) in one of these
 magazines.
 
-## For the second category
+For the second category
+ 
 
 What is the most appropriate way to convey this message to
 young women? We have to find their lifestyle and the media that uses them
@@ -311,7 +328,11 @@ effectiveness in using the 3M method. You can see how easy it is to get a
 marketing plan for businesses this way. You just have to be more
 discriminating with the help you render toward other people.
 
-If you have any questions about this, be sure to ask in the comments section. Also, if you have the experience of using blind advertising without considering the target market and advertising message, announce it in the comments section. We look forward to hearing from you [about marketing and advertising](https://topmagnificent-owltips-05df7.netlify.app/posts/working-from-home/).
+If you have any questions about this, be sure to ask in the
+comments section. Also, if you have the experience of using blind advertising
+without considering the target market and advertising message, announce it in
+the comments section. We look forward to hearing from you [about
+marketing and advertising](https://topmagnificent-owltips-05df7.netlify.app/posts/working-from-home/).
 
 ### Inline Code and Code Blocks
 
