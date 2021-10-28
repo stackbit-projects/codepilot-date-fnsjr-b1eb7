@@ -54,7 +54,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "netlify.app",
                 "url": "#",
                 "new_window": false,
                 "no_follow": false
