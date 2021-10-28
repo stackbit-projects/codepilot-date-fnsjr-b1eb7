@@ -12,7 +12,7 @@ sections:
     section_id: intro
     type: section_content
     content: "# Search Custom Sources\n\nPick from a list of suggested Custom Sources curated for the technologies and tools from your\_**Developer Profile**.\n\nYou can also add your own websites to search through!  Whenever you make a search, you will be able to access to the search results on those websites using our\_**built-in browser**.\n"
-    image: images/avatar.png
+    image: /images/Web Traffic Packages -.png
     image_alt: test
   - title: Recent Posts
     section_id: posts
