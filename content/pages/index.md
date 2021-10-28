@@ -20,7 +20,9 @@ sections:
     image_alt: Geometric pattern
 seo:
   title: 'Tool for Software Developers - '
-  description: The preview of the Vanilla theme
+  description: >-
+    We drive cheap high responsive traffic to your website. website traffic
+    AdSense safe. 
   extra:
     - name: 'og:type'
       value: website
