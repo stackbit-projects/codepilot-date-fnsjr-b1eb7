@@ -54,7 +54,7 @@
                 "new_window": true
             },
             {
-                "label": "Netlify.app",
+                "label": "Netlify",
                 "url": "#",
                 "new_window": false,
                 "no_follow": false
