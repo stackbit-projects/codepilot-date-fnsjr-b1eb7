@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=vanilla&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "<p>&copy; <a class=\"logo\" href=\"https://codepilot-date-fnsjr-b1eb7.netlify.app/\">CODEPILOT DATE FNSJR</a>. All rights reserved. This Jamstack site was created with <a href=\"https://www.targetedwebtraffic.com/?ref=134\">real human website traffic</a>. Order <a href=\"https://www.targetedwebtraffic.com/?p=56\" target=\"_blank\" rel=\"noopener\">now</a></p>",
         "has_social": true,
         "social_links": [
             {
