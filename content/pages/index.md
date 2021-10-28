@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Tool for Software Developers
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Code examples, issues, questions
     image: /images/download.png
     image_alt: Author avatar
   - title: Text
